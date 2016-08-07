@@ -1,2 +1,3 @@
 <?php
-	require_once 'classes/Record.php';
+	require_once 'classes/Record.class.php';
+	

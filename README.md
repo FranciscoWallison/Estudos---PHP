@@ -1,7 +1,7 @@
 # Estudos---PHP
 Praticas com php OO
 
-# Tirar a merdia
+### Tirar a média
 ```
 $media = $gener['m'] + $gener['f'];
 if( $media ){
